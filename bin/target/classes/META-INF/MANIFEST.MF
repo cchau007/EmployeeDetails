@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: EmployeeDetails
+Implementation-Version: 1.0.0
+Built-By: cheta
+Implementation-Vendor-Id: com.assignment.employee
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/EmployeeDeta
+ ils/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
